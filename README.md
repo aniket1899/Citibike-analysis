@@ -1,6 +1,7 @@
 # Citibike-analysis
+
 Citibike data analysis for NYC using Hadoop and Hive. Data visualization with Tableau. 
-Size of the entire dataset - 15 GB
+##### Size of the entire dataset - 15 GB
 ---
 
 
